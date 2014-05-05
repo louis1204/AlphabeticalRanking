@@ -1,0 +1,32 @@
+READ ME
+AlphabeticalRanking
+
+How to execute the program on Windows.
+
+1. Open cmd.exe.
+2. Check if you have Java installed by typing java followed by return.
+3. If don't have it, install it. Otherwise to run the application
+type 
+
+java -jar <path to AlphabeticalRanking.jar>
+
+How to execute the program on Mac.
+
+1. Open Terminal.
+2. Type
+
+java -jar <path to AlphabeticalRanking.jar>
+
+The prompt will ask you to enter a word.
+Enter a valid word followed by return.
+The ranking will be displayed and you will be prompted to input another word
+or not.
+
+Some words to try are:
+ABAB
+AAAB
+BAAA
+QUESTION
+BOOKKEEPER
+NONINTUITIVENESS
+ZABCDEFGHIJKLMNOPQSR
